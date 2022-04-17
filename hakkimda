@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="=UTF-8">
+        <title>HAKKIMDA</title>
+        
+        <link href="https://fonts.googleapis.com/css2?family=Mukta:wght@200&display=swap" rel="stylesheet">
+
+    <style>
+         body{
+            margin: 0;
+            padding: 0;
+            font-family: 'Mukta', sans-serif;
+            background-image:url(https://images.clipartlogo.com/files/istock/previews/1008/100877625-dark-red-vampire-abstract-website-background.jpg) ;
+            background-repeat: no-repeat;
+            background-size: cover;
+        } 
+
+        #social {
+    background-color: rgb(20, 16, 16);
+    color: rgba(163, 18, 98, 0.842);
+    height: 30px;
+    width: auto;
+    position: sticky ;
+    top: 0;
+    z-index: 1;
+    font-size: 18px;
+    text-align: right;
+    padding: 15px;
+        }
+    font{
+    float: left;
+    letter-spacing: 2px;
+     }   
+     span{
+    font-size: 12px;
+    letter-spacing: 1px;
+    }
+    .logo1{
+        position: sticky;
+        text-align: left;
+        height: 100%;
+        width: 30x;
+        z-index: 1;
+    }
+     #contanier{
+    width: 80%;
+    margin:auto;
+    height: auto;
+   }
+    header{
+    width: 100%;
+    height: 250px;
+    box-shadow: 0 2px 8px 2px rgba(148, 80, 103, 0.842);
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    position: relative;
+    font-size: 300%;
+    color: aliceblue;
+    margin-bottom: 5px;
+    color: black;
+    font-size: 50px;
+}
+
+#centered{
+    text-align: center;
+    position: absolute;
+    top: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(163, 18, 98, 0.842);
+}
+section{
+    width: 100%;
+    height: auto;
+    background-color: rgb(39, 37, 37);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px; 
+    box-shadow: 0 2px 8px 2px rgba(148, 80, 103, 0.842);
+    margin-top: 15px;
+    overflow: auto;
+}
+nav{
+     width: 15%;
+     float: left;
+     margin-top: 10px;
+
+}
+nav ul{
+    width: auto;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+nav li{
+    list-style-type: none;
+}
+nav li a{
+    height: 50px;
+    line-height: 50px;
+    text-decoration: none;
+    color: rgba(163, 18, 98, 0.842);
+    border-bottom: 1px solid black;
+    padding-left: 20px;
+    display: block;
+
+}
+nav li a:hover{
+    background-color:rgba(214, 192, 204, 0.842);
+}
+main{
+    float: left;
+    height: auto;
+    width: 80%;
+    padding: 10px;
+}
+.içerik{
+    width: 48%;
+    height: auto;
+    display: inline-block;
+    margin-right: 15px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px 2px rgba(148, 80, 103, 0.842);
+    margin-bottom: 15px;
+}
+
+.rsm{
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.rsm:hover{
+    opacity: 0.5;
+}
+h5{
+    margin: 10px;
+    color:dimgray;
+}
+.iceriktext{
+    margin: 10px;
+    color: dimgray;
+}
+.btnDevam:link{
+    display: block;
+    width: 100px;
+    height: 25px;
+    padding: 10px 20px;
+    background-color: rgba(163, 18, 98, 0.842);
+    color:rgb(22, 18, 18);
+    text-decoration: none;
+    margin: 15px;
+    border-radius: 15px;
+}
+.btnDevam:hover{
+    opacity: 0.8;
+}
+footer{
+    width: 100%;
+    height: 75px;
+    background-color: black;
+    color:rgba(163, 18, 98, 0.842);
+    line-height: 75px;
+    text-align: center;
+    box-shadow: 0 2px 8px 2px rgba(148, 80, 103, 0.842);
+}
+h1{
+    text-align: center ;
+    background-color: black;
+    color:rgba(163, 18, 98, 0.842);
+    height: 50px;
+    line-height: 50px;
+    margin: 0 10px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px 2px rgba(148, 80, 103, 0.842);
+
+}
+#hakresim{
+    width: 300px;
+    height: 300px;
+    float: left;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+#hakresim:hover{
+    opacity: 0.6;
+}
+
+.hakyazı{
+    margin: 15px;
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-indent: 48px;
+    color:dimgray;
+
+}
+        </style>
+        </head>
+
+         <body>
+            <div id="social" >
+                <font> KİŞİSEL WEB SİTESİ| <span>profile page</span> </font>
+                <a href="https://instagram.com/eslem.ng?igshid=YmMyMTA2M2Y="><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi0Z7q4IlJEcSQnDaAXNE_9C9NeMvwYn3qJg&usqp=CAU" alt="" class="logo1"></a>
+                </div>
+            
+            <div id="contanier">
+    
+                <header>
+                    <div id="centered">
+                        MERHABA! Ben Eslem Nur GÖK kişisel web sayfama hoşgeldiniz.
+                     </div>
+                    
+                </header>
+                <section>
+                    <nav>
+                        <ul>
+                            <li><a href="webtasarımodev.html">Anasayfa</a></li>
+                            <li><a href="hakkımızda.html">Hakkımda</a></li>
+                            <li><a href="galeri.html">Galeri</a></li>
+                            <li><a href="iletisim.html">İletişim</a></li>
+                        </ul>
+                    </nav>
+    
+                    <main>
+                        <h1>hakkımda</h1>
+                        <img id="hakresim" src="C:\Users\90546\OneDrive\Belgeler\GitHub\eslemnurgok\eslem.jfif" alt="">
+                        <h3>Ben Kimim?</h3>
+                        <p class="hakyazı">Eslem Nur GÖK. 19 yaşımdayım. Birinci sınıf yazılım mühendisliği
+                        bölümünde İnönü Üniversitesinde  okuyorum. Doğum yerim ve aynı zamanda büyüdüğüm yer Yalovadır.
+                        Yazılım mühendisliği seçmemin birçok nedeni var ama en başında insanlık için faydalı bir iş yapmak
+                        isteme geliyor. Hayalim şu yöndeki hazırladığım bi uygulama insanlığa çok faydalı olucak ve hayatımızı
+                        kolaylaştıracak.
+                        </p>
+                        <h3>Aldığım Eğitimler</h3>
+                        <p class="hakyazı">a1,a2,b1,b2 ingilizce eğitim seviyesi,
+                            başlangıç seviye diksiyon kursu, 
+                         </p>
+                        <hr>
+                        <h3>projelerim</h3>
+
+                        <p class="hakyazı">bölümümde ilk senem ve kendimi geliştirmek için can atıyorum
+                            menu olusturma web sitesi hazırlama gibi birkaç proje üzerinde çalışıyorum.
+                        </p>
+
+
+                
+                    </main>
+                </section>
+                <footer>Tüm hakları saklıdır &copy; |2022</footer>
+        </div>
+        </body>
+</html>
